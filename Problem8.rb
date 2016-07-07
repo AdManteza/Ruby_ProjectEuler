@@ -30,7 +30,7 @@ def greatest_product(number)
   largest_product
 end
 
-p greatest_product(NUMBER)
+puts greatest_product(NUMBER)
 
 
 
